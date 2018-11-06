@@ -12,7 +12,7 @@ Category.create([
   {parent_id: 1, name: "Category 1.1"},
   {parent_id: 3, name: "Category 1.1.1"},
   {parent_id: 1, name: "Category 1.2"},
-  {parent_id: 4, name: "Category 1.1.1.0"},
+  {parent_id: 4, name: "Category 1.1.1.1"},
   {parent_id: 5, name: "Category 1.2.1"},
   {parent_id: 2, name: "Category 2.1"}
 ])
