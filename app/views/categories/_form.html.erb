@@ -13,7 +13,7 @@
 
   <div class="field">
     <%= form.label :parent_id %>
-    <%= form.number_field :parent_id %>
+    <%= form.collection_select :parent_id, Category.all, :id, :name, {} %>
   </div>
 
   <div class="field">
