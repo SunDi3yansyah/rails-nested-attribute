@@ -1,0 +1,6 @@
+<ul>
+  <li><%= link_to category.name, category_path(category) %></li>
+  <% unless category.children.empty? %>
+    <%= render partial: category.children %>
+  <% end %>
+</ul>
