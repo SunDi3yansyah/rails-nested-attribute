@@ -22,12 +22,12 @@ In designing a data model, you will sometimes find a model that should have a re
 
 SSH:
 ```
-git@github.com:SunDi3yansyah/RailsNestedAttribute.git
+git clone git@github.com:SunDi3yansyah/RailsNestedAttribute.git
 ```
 
 HTTP(S):
 ```
-https://github.com/SunDi3yansyah/RailsNestedAttribute.git
+git clone https://github.com/SunDi3yansyah/RailsNestedAttribute.git
 ```
 
 
