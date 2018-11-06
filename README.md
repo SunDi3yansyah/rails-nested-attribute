@@ -9,6 +9,8 @@ In designing a data model, you will sometimes find a model that should have a re
 - Rails >= 5.2.1
 - MySQL / MariaDB
 
+If you want to use another database, you can simply update `Gemfile`, `database.yml` and `schema.rb`
+
 
 ### Function
 
