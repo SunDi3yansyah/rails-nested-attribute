@@ -69,4 +69,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/SunDi3
 
 [![MIT License](https://img.shields.io/dub/l/vibe-d.svg)](http://opensource.org/licenses/MIT)
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The repository is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
