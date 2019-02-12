@@ -50,7 +50,7 @@ rails db:create db:migrate db:seed
 ### Start
 
 ```
-rs
+rails s
 ```
 
 This will fire up Puma, To see your application in action, open a browser window and navigate to http://localhost:3000/categories
